@@ -1,2 +1,2 @@
-Example: SUBDOMAIN TAKEOVER BY FELCITY
+Example: BROKEN LINK HIJACKING BY FELCITY
 ===============================================
