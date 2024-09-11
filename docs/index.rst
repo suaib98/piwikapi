@@ -1,6 +1,6 @@
 
 .. include:: ../README.rst
 
-SUBDOMAIN TAKEOVER BY FELCITY (FELCITY)
+BROKEN LINK HIJACKING BY FELCITY (FELCITY)
 ===================================
 
